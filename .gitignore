@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+ugr16/
+*.csv.zip
+BOUN_*_Anon.csv
